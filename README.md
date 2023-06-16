@@ -1,0 +1,1 @@
+# LSEGloss2SpanishText
